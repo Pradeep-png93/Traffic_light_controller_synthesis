@@ -7,9 +7,9 @@ Synthesize Traffic Light Controller design using Constraints and analyse area an
 ## Tool Required:
 
 Functional Simulation: Incisive Simulator (ncvlog, ncelab, ncsim)
-
 Synthesis: Genus
-![Screenshot 2025-05-26 201646](https://github.com/user-attachments/assets/dbbc7467-ec11-4b37-bcf0-e52f447b0187)
+
+![Screenshot 2025-05-26 203912](https://github.com/user-attachments/assets/d635d0d8-d32b-4939-9aeb-1cd46f767c08)
 
 ### Step 1: Getting Started
 
